@@ -38,3 +38,7 @@ navigation:
 #	url: /apply/index.html
 #- title: Info For Participants
 #	url: /application/index.html
+
+google_analytics: UA-50822109-1
+show_downloads: true
+theme: jekyll-theme-cayman
